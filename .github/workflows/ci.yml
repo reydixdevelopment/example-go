@@ -1,4 +1,4 @@
-name: Test and coverage
+name: Test and coverage workflow
 
 on: [push, pull_request]
 
