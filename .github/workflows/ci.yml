@@ -19,3 +19,4 @@ jobs:
         with:
           url: 'https://codecov.reydixdev.com'
           token: ${{ secrets.CODECOV_TOKEN }}
+          files: ./code_coverage.xml
